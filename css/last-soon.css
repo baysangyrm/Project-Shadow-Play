@@ -1,0 +1,16 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.head-soon{
+    margin-top: 400px;
+    font-size: 100px;
+    margin-bottom: 400px;
+    justify-content: center;
+    text-align: center;
+}
+.back-to-page{
+    margin-left: 40px;
+}
