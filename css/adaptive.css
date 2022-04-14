@@ -1,0 +1,146 @@
+@media (min-width: 1010px) and (max-width: 1800px) { 
+    .container{
+        width: 1000px;
+    }
+    .container{
+        width: 100%;
+    }
+}
+@media (min-width: 800px) and (max-width: 1010px) { 
+    .container{
+        width: 100%;
+    }
+    .header-wrapper{
+        display: block;
+        justify-content: center;
+        text-align: center;
+    }
+    .header-logo{
+        display: none;
+    }
+    .header-nav__nav-link{
+        font-size: 25px;
+        padding-bottom: 5px;
+    }
+    .header-social{
+        margin-left: 210px;
+    }
+    .main{
+        width: 400px;
+        justify-content: center;
+        margin-bottom: 100px;
+    }
+    .main-wrapper{
+        margin-left: calc(100% - 50px);
+    }
+    .main-title{
+        font-size: 40px;
+    }
+    .main-description{
+        font-size: 15px;
+    }
+    .main-image{
+        width: 200px;
+    }
+    .about-us{
+        width: 100%;
+    }
+    .about-us-wrapper{
+        display: block;
+        margin-left: 350px;
+        margin-top: 300px;
+    }
+    .about-us-title{
+        text-align: center;
+        width: max-content;
+        font-size: 50px;
+    }
+    .about-us-image{
+        width: 200px;
+        margin-top: 30px;
+    }
+    .tournaments{
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    .tournaments-title{
+        font-size: 50px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .tournaments-block{
+        width: 45%;
+        margin-top: 20px;
+        margin-right: 5px;
+    }
+    .tournament-block__info-text__title{
+        font-size: 30px;
+    }
+}
+@media (min-width: 400px) and (max-width: 800px) { 
+    .container{
+        width: 401px;
+    }
+    .header-wrapper{
+        display: block;
+    }
+    .header-logo{
+        display: none;
+    }
+    .header-nav__nav-link{
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
+    .header-social{
+        margin-left: 190px;
+    }
+    .main{
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 100px;
+    }
+    .main-title{
+        font-size: 40px;
+    }
+    .main-description{
+        font-size: 15px;
+    }
+    .main-image{
+        width: 100px;
+        margin-right: 100px;
+    }
+    .about-us{
+        width: 100%;
+        justify-content: center;
+    }
+    .about-us-wrapper{
+        display: block;
+        justify-content: center;
+        margin-left: 100px;
+        margin-right: (100% - 20px);
+    }
+    .about-us-title{
+        margin-right: 25px;
+        font-size: 50px;
+        justify-content: center;
+    }
+    .about-us-image{
+        width: 150px;
+        margin-top: 30px;
+    }
+    .tournaments{
+        width: 100%;
+    }
+    .tournaments-title{
+        font-size: 50px;
+        text-align: center;
+    }
+    .tournaments-block{
+        width: 400px;
+        margin-top: 20px;
+    }
+    .tournament-block__info-text__title{
+        font-size: 30px;
+    }
+}
