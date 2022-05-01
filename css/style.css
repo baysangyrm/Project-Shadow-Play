@@ -104,6 +104,11 @@ a:hover{
     font-size: 56px;
     margin-right: 300px;
 }
+.about-us__description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+}
 /* Секция "О нас" */
 
 /* Tournamenmts */

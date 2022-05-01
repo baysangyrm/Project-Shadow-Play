@@ -131,6 +131,10 @@
         width: 150px;
         margin-top: 30px;
     }
+    .about-us__description{
+        width: 50%;
+        font-size: 90%;
+    }
     .tournaments{
         width: 100%;
         margin-left: 10px;
